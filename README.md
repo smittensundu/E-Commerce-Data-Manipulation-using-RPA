@@ -1,4 +1,4 @@
-# E-Commerce-Data-Manipulation-using-RPA# E-Commerce-data-manipulation-via-RPA
+# E-Commerce-Data-Manipulation-using-RPA
 E-commerce data manipulation using RPA is an automation project that will produce the various book details using ISBN number to clients via e-mail. When we search for a particular book using ISBN number in any e-commerce website, the result is not ready for consumption and is not clearly formatted. ISBN refers to International Standard Book Number. 
 This project enables various E-Commerce websites to reap loads of benefits from the RPA software robots as these kind of activities can be fully automated without the intervention of any human being at all.  It reduces the time and effort required to drill down the relevant book information and collates the automated results in excel which is easy to consume, visualize and understand by the clients. It also automates the mail that is sent by the clients and saves the attachment of input files required for the project. Atlast, the business file which is generated is sent via mail to the clients using RPA. 
 
